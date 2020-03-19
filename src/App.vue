@@ -38,7 +38,7 @@ const axios = require('axios');
 export default {
   data() {
     return {
-      tableData: [{}]
+      tableData: []
     }
   },
   methods: {
